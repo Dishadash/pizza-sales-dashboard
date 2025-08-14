@@ -23,5 +23,3 @@ Data was cleaned in Python (Pandas) and visualized in Tableau to create an inter
 - Tableau: Interactive dashboard
 - Google Colab: Data cleaning
 
-📌 Author
-Project completed with guidance from Unified Mentor.
